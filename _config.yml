@@ -1,0 +1,11 @@
+# Site settings
+title: Fix Firefox
+tag_text: Fix Firefox
+description: A one page guide on making Firefox suck less
+url: "https://fixfirefox.com"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
